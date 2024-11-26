@@ -107,6 +107,3 @@ If anyone has questions or issues, provide a way to get in touch:
 
 - Your Name – [email@example.com](mailto:email@example.com)
 - Project Link – [https://github.com/username/project-name](https://github.com/username/project-name)
-
-
-
